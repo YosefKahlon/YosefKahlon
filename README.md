@@ -2,7 +2,7 @@
 
 [//]: # ()
 [//]: # (**YosefKahlon/YosefKahlon** is a ✨ _special_ ✨ repository because its `README.md` &#40;this file&#41; appears on your GitHub profile.)
-
+[//]: # ()
 
 
 - 🎓 I’m a B.Sc. student at the Department of Computer Science and Mathematics in Ariel University.
@@ -21,7 +21,7 @@
 [//]: # (- 😄 Pronouns: ...)
 
 [//]: # (- ⚡ Fun fact: ...)
-
+  
 
 [//]: # (-->)
 
@@ -50,3 +50,5 @@
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yosefkahlon&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+
