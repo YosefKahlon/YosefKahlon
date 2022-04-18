@@ -28,6 +28,23 @@
 [//]: # ()
 [//]: # (/>)
 
+
+## My Stack:
+
+
+#### Languages and Tools:
+![img.png](img.png)![img_1.png](img_1.png)![img_2.png](img_2.png)![img_3.png](img_3.png) 
+
+#### Data Base:
+![img_5.png](img_5.png)
+
+#### Other:
+![img_4.png](img_4.png)![img_6.png](img_6.png)![img_7.png](img_7.png)
+
+
+## 📈 Github Stats:
+
+[//]: # (stat )
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yosefkahlon&show_icons=true&theme=tokyonight)
 
 
