@@ -29,8 +29,8 @@
 [//]: # (/>)
 
 
-
-![](https://visitor-badge.laobi.icu/badge?page_id=YosefKahlon) 
+<!-- 
+![](https://visitor-badge.laobi.icu/badge?page_id=YosefKahlon)  -->
 ## ![img_13.png](img_13.png) My Stack:
 
 
