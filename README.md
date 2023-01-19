@@ -43,7 +43,7 @@
 #### Other:
 ![img_4.png](img_4.png)![img_6.png](img_6.png)![img_7.png](img_7.png)
 
-  
+<!--   
 ## 📈 Github Stats:
 
 
@@ -53,4 +53,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yosefkahlon&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-
+  -->
