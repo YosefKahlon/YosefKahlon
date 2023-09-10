@@ -18,6 +18,9 @@
 [//]: # (- 💬 Ask me about ...)
 - 📫 How to reach me: yosefkahlon53@gmail.com
 
+
+ -  https://www.linkedin.com/in/yoseforkahlon/
+
 [//]: # (- 😄 Pronouns: ...)
 
 [//]: # (- ⚡ Fun fact: ...)
