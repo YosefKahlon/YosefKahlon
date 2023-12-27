@@ -16,11 +16,14 @@
 [//]: # (- 🤔 I’m looking for help with ...)
 
 [//]: # (- 💬 Ask me about ...)
-- 📫 How to reach me: yosefkahlon53@gmail.com
- -  https://www.linkedin.com/in/yoseforkahlon/
+- 📫 How to reach me: 
+   yosefkahlon53@gmail.com
+
+ - Linkedin:
+   https://www.linkedin.com/in/yoseforkahlon/
 
 
- - My personal website
+ - My personal website:
    https://yosefkahlon.github.io/
 
 [//]: # (- 😄 Pronouns: ...)
