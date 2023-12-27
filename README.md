@@ -21,6 +21,8 @@
 
  -  https://www.linkedin.com/in/yoseforkahlon/
 
+ - https://yosefkahlon.github.io/
+
 [//]: # (- 😄 Pronouns: ...)
 
 [//]: # (- ⚡ Fun fact: ...)
