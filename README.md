@@ -17,13 +17,11 @@
 
 [//]: # (- 💬 Ask me about ...)
 - 📫 How to reach me: yosefkahlon53@gmail.com
-
-
  -  https://www.linkedin.com/in/yoseforkahlon/
 
 
  - My personal website
- - https://yosefkahlon.github.io/
+   https://yosefkahlon.github.io/
 
 [//]: # (- 😄 Pronouns: ...)
 
