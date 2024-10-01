@@ -30,11 +30,7 @@
 
 🔗 Check out my GitHub repositories to see some of the projects I've worked on.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yosefkahlon&show_icons=true&theme=tokyonight)
 
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yosefkahlon&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 
 [//]: # (- 😄 Pronouns: ...)
@@ -53,6 +49,11 @@
 <!--   
 ## ![img_13.png](img_13.png) My Stack:
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yosefkahlon&show_icons=true&theme=tokyonight)
+
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yosefkahlon&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 #### Languages and Tools:
 ![img.png](img.png)![img_1.png](img_1.png)![img_2.png](img_2.png)![img_3.png](img_3.png) 
