@@ -5,7 +5,9 @@
 [//]: # ()
 
 
-- 🎓 I’m a B.Sc. student at the Department of Computer Science and Mathematics in Ariel University.
+🎓 Recent B.Sc. Graduate in Computer Science and Mathematics from Ariel University. I'm passionate about software development, algorithms, and data-driven problem-solving.
+
+💡 I’m always eager to explore new technologies, contribute to open-source projects, and collaborate on innovative projects.
 
 [//]: # (- 🔭 I’m currently working on ...)
 
@@ -25,6 +27,15 @@
 
  - My personal website:
    https://yosefkahlon.github.io/
+
+🔗 Check out my GitHub repositories to see some of the projects I've worked on.
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yosefkahlon&show_icons=true&theme=tokyonight)
+
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yosefkahlon&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
 
 [//]: # (- 😄 Pronouns: ...)
 
@@ -56,10 +67,6 @@
 ## 📈 Github Stats:
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yosefkahlon&show_icons=true&theme=tokyonight)
 
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yosefkahlon&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
   -->
