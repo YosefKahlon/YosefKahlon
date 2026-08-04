@@ -5,7 +5,7 @@ Software engineer focused on **backend and cloud**. I build scalable server-side
 💡 I care about performance, reliability, and clean architecture — async processing, distributed systems, containerization, and CI/CD. Always exploring new technologies and taking on systems-level problems.
 
 - 📫 **Email:** yosefkahlon53@gmail.com
-- 💼 **LinkedIn:** https://www.linkedin.com/in/yoseforkahlon/
+- 💼 **LinkedIn:** https://www.linkedin.com/in/yosefkahlon/
 - 🌐 **Website:** https://yosefkahlon.github.io/
 
 🔗 Check out my repositories below for backend, cloud, and distributed-systems projects.
